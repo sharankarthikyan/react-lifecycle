@@ -47,8 +47,6 @@ class Class extends React.Component {
         snapshot
       )}`
     );
-
-    return null;
   }
 
   componentDidMount() {
